@@ -4,6 +4,8 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
+//Bullet文件新加了一个功能，可以穿越物体
+
 public class Bullet {
 	int x_location=150,y_location=420;
 	private int width = 10;
